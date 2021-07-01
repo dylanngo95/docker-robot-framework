@@ -24,8 +24,8 @@ This project consists of a Docker image containing a Robot Framework installatio
 
 ### Browser
 
-google-chrome-stable=latest
-chromedriver=91.0.4472.101
+* google-chrome-stable=latest
+* chromedriver=91.0.4472.101
 
 ## How to use
 
